@@ -1,4 +1,5 @@
 **📊 E-commerce Sales Dashboard (Power BI)**
+
 An interactive dashboard designed to analyze e-commerce performance, identifying key revenue drivers and sales trends to support data-driven decision-making.
 ---
 **🎯 Project Objectives**
